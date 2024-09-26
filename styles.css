@@ -14,6 +14,12 @@ body{
         color: black;
     }
 }
+@media only screen and (max-width:320px){
+    body{
+        background-color: hotpink;
+        color:aliceblue;
+    }
+}
 
 
 
